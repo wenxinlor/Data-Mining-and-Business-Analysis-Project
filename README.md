@@ -6,11 +6,9 @@ SecureSwipe is a machine learning solution developed to enhance the detection of
 
 ## Files in this Repository
 
-- **`Model/`**: This folder contains all the relevant content related to the project, including notebooks for feature selection, EDA, and model creation.
 - **`bs_dataset.csv`**: The dataset used for this project, sourced from Kaggle's BankSim dataset.
 - **`feature_selection_2nd_try (1).ipynb`**: A Jupyter notebook where the team conducted feature selection using various techniques.
 - **`EDA.ipynb`**: A Jupyter notebook focused on exploratory data analysis (EDA) to understand the dataset's structure, identify trends, and clean the data.
-- **`Model - Jupyter Notebook.pdf`**: A PDF document of the final model implementation code.
 - **`Model.ipynb`**: The notebook containing the code for building and evaluating machine learning models.
 
 ## Project Structure
