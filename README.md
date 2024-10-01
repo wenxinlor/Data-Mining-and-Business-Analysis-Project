@@ -1,4 +1,4 @@
-# SecureSwipe: Credit Card Fraud Detection
+# SecureSwipe: Credit Card Fraud Detection (Year 3 Sem 1) (2023)
 
 ## Project Overview
 
